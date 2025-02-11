@@ -3,6 +3,28 @@
 # Sistema-Estacionamento-C#
 Nesse projeto eu estou praticando conceitos aprendidos no curso randstad .net da DIO.me
 
+## 📦 Requisitos
+
+Antes de rodar o projeto, certifique-se de ter instalado:
+
+- [.NET SDK](https://dotnet.microsoft.com/en-us/download) (versão X.X.X)
+- Git (para clonar o repositório)
+- Um editor de código (ex: Visual Studio ou VS Code)
+
+## 🚀 Como Rodar o Projeto
+
+1. **Clone o repositório**:
+   ```sh
+   git clone https://github.com/chiodis/Sistema-Estacionamento-Csharp.git
+
+2. **Acesse o diretorio**
+
+3. **Restaure as dependencias .NET**
+  use o comando: dotnet restore 
+
+4. **Por fim, compile e rode o projeto**
+  use o comando: dotnet run
+
 
 ## Desafio de projeto
 Para este desafio, o intuito é reforçar conceitos simples de utilização de classes e métodos.
