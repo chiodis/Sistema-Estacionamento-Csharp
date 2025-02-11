@@ -3,7 +3,7 @@
 # Sistema-Estacionamento-C#
 Nesse projeto eu estou praticando conceitos aprendidos no curso randstad .net da DIO.me
 
-## 📦 Requisitos
+##  Requisitos
 
 Antes de rodar o projeto, certifique-se de ter instalado:
 
@@ -11,7 +11,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 - Git (para clonar o repositório)
 - Um editor de código (ex: Visual Studio ou VS Code)
 
-## 🚀 Como Rodar o Projeto
+##  Como Rodar o Projeto
 
 1. **Clone o repositório**:
    ```sh
