@@ -7,14 +7,14 @@ Nesse projeto eu estou praticando conceitos aprendidos no curso randstad .net da
 
 Antes de rodar o projeto, certifique-se de ter instalado:
 
-- [.NET SDK](https://dotnet.microsoft.com/en-us/download) (versão X.X.X)
+- [.NET SDK](https://dotnet.microsoft.com/en-us/download) 
 - Git (para clonar o repositório)
 - Um editor de código (ex: Visual Studio ou VS Code)
 
 ##  Como Rodar o Projeto
 
 1. **Clone o repositório**:
-   ```sh
+   ```shell ou bash
    git clone https://github.com/chiodis/Sistema-Estacionamento-Csharp.git
 
 2. **Acesse o diretorio**
