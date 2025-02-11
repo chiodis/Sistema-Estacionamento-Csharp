@@ -1,0 +1,7 @@
+#reemovendo binarios compilados 
+bin/
+obj/
+
+#removendo
+ProjetoEstacionamento C#.csproj
+ProjetoEstacionamento C#.sln
